@@ -1,6 +1,6 @@
-# Assignment 4 - Block Store
+# Block Storage Assignment
 
-Please refer to the assignment document and direct all question to the Canvas LMS.
+This is my solution to the Block Store assignment for the Operating Systems class at the University of Missouri - Columbia. All provided unit tests passed. 
 
-Due:  Friday, October 25, 11:59 PM
+
 
