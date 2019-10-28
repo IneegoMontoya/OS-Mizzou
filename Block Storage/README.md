@@ -1,1 +1,6 @@
-This is my completed assignment for Block Storage with all provided unit tests passed.
+# Assignment 4 - Block Store
+
+Please refer to the assignment document and direct all question to the Canvas LMS.
+
+Due:  Friday, October 25, 11:59 PM
+
