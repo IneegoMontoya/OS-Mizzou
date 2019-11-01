@@ -1,6 +1,4 @@
-# A2 - C Refresher
-# Added by JimR
-# Also added by JimR
+# C refresher assignment from Mizzou's CS Operating Systems class
 Set 1:
 
 - arrays
