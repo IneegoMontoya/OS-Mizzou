@@ -1,4 +1,4 @@
-# Scheduling Algorithms
+# Scheduling Algorithms, C-Refresher, and Block Storage assignments in Mizzou's Operating Systems CS course
 
 My solution for the Process Control assignment for Operating Systems class at University of Missouri - Columbia
 
