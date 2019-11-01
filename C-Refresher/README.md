@@ -13,7 +13,4 @@ Set 2:
 - error_handling
 - structures
 
-Set 1 due Monday, September 2, 11:59 PM
-
-Set 2 due Monday, September 9, 11:59 PM
 
